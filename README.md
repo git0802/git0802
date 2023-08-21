@@ -29,9 +29,9 @@ I had already built so many Websites with the mentioned skill.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- [💬 skypeID](https://join.skype.com/invite/vgJVlwAIci84) : https://join.skype.com/invite/vgJVlwAIci84
-- [📞 TG](https://t.me/pdev217) : https://t.me/pdev217
-- [📝 Email](mailto:armandLucas92@gmail.com) : armandLucas92@gmail.com
+- [💬 skypeID](https://join.skype.com/invite/sV81HbE5O1R7) : https://join.skype.com/invite/sV81HbE5O1R7
+- [📞 TG](https://t.me/kinddev0813) : https://t.me/kinddev0813
+- [📝 Email](mailto:uri.dev.0802@gmail.com) : uri.dev.0802@gmail.com
 
 <!-- **Languages and Tools:**
 
