@@ -237,6 +237,7 @@ I had already built so many Websites with the mentioned skill.
 <div align="center"/>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=greendream21)
+<img width=100% title="greendream21" alt="greendream21"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=greendream21&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
