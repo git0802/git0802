@@ -232,12 +232,9 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=greendream21&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=greendream21&theme=github&count_private=true)
-
 <div align="center"/>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=greendream21)
-<img width=100% title="greendream21" alt="greendream21"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=greendream21&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
@@ -245,3 +242,4 @@ I had already built so many Websites with the mentioned skill.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream21&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>
 
 </div>
+<img width=100% title="greendream21" alt="greendream21"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
