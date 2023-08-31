@@ -2,9 +2,6 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack Web Developer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
-<p align="center">
-  <a href="https://github.com/greendream21/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&height=45"></a>
-</p>
 Well-qualified aspiring Full Stack Developer with over 7 years of experience in Web
 Development. Not only proficient in high quality code and highly responsive UI development
 using wide range of programing languages, but also brilliant at handling problems in any part
