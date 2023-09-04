@@ -9,7 +9,7 @@ using wide range of programming languages, but also brilliant at handling proble
 of process with ease, especially in React for Front-end development. Always with customers by
 going the extra mile to makes them unquestionably satisfied with our product and service
 
-<br>
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" /> </p>
 
@@ -123,7 +123,7 @@ going the extra mile to makes them unquestionably satisfied with our product and
  </tr>
 </table>
 </div>
-<br><br>
+<br />
 
 <h2>😎 GitHub Stats 😎</h2>
 <div align="center">
