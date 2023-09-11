@@ -13,6 +13,8 @@ going the extra mile to makes them unquestionably satisfied with our product and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" /> </p>
 
+![greendream21 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=greendream21)
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=greendream21&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
