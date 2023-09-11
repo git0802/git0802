@@ -15,9 +15,7 @@ going the extra mile to makes them unquestionably satisfied with our product and
 
 ![greendream21 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=greendream21)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=greendream21&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+![greendream21 github-trophies](https://stats.dooboo.io/api/github-trophies?login=greendream21)
 
 <!-- 💗 **My Favorites Techs:** -->
 
@@ -129,8 +127,8 @@ going the extra mile to makes them unquestionably satisfied with our product and
 
 <h2>😎 GitHub Stats 😎</h2>
 <div align="center">
-    <a href="#"><img alt="greendream21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream21&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <a href="#"><img alt="greendream21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=greendream21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="greendream21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream21&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="greendream21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=greendream21&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
 </div>
 
 <img width=100% title="greendream21" alt="greendream21"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
