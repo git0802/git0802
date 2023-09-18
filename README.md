@@ -2,7 +2,7 @@
 
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
-<p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" style="width:96%" src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" style = "width: -webkit-fill-available;"/></p>
 Well-qualified aspiring Full Stack Developer with over 7 years of experience in Web
 Development. Not only proficient in high quality code and highly responsive UI development
 using wide range of programming languages, but also brilliant at handling problems in any part
