@@ -3,11 +3,7 @@
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
 <p align="center"><img align="center" style="width:96%" src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" style = "width: -webkit-fill-available;"/></p>
-Well-qualified aspiring Full Stack Developer with over 7 years of experience in Web
-Development. Not only proficient in high quality code and highly responsive UI development
-using wide range of programming languages, but also brilliant at handling problems in any part
-of process with ease, especially in React for Front-end development. Always with customers by
-going the extra mile to makes them unquestionably satisfied with our product and service
+I'm an experienced Full-Stack Software Engineer with expertise in JavaScript/Typescript, focusing on React.js, Next.js, Angular, Vue.js for front-end, and Node.js for server-side. My abilities span from aesthetic UI creation with CSS frameworks like Tailwind CSS and Material UI, to applying AI technologies like ChatGPT and GPT-4. My backend knowledge includes MERN and MEAN stacks, with AWS and GCP for cloud deployment, and MongoDB and MySQL for database architecture. My skills allow for the development of dependable, effective, and scalable applications that significantly impact businesses, and I eagerly anticipate applying these skills to future innovative projects.
 
 <br />
 
