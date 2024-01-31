@@ -1,5 +1,7 @@
 ## 👋Welcome👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" /> </p>
+
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
 <p align="center"><img align="center" style="width:96%" src="https://cdn.discordapp.com/attachments/1008571199065964634/1202357602810597386/jenhitze_bald_man_in_awe_geometric_colorful_background_ethereal_1f848b0c-8a51-4370-8c09-02f708d235d3.png?ex=65cd29c7&is=65bab4c7&hm=7b15afbb663dbf12ed0107a04d6fec57bcd8db1861cccd05a426a5aea08e5bea&" style = "width: -webkit-fill-available;"/></p>
@@ -7,12 +9,8 @@ I am an experienced Full-Stack Software Engineer with a comprehensive skill set 
 
 
 <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" /> </p>
-
-![greendream21 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=greendream21)
-
-![greendream21 github-trophies](https://stats.dooboo.io/api/github-trophies?login=greendream21)
+<br />
+<br />
 
 <!-- 💗 **My Favorites Techs:** -->
 
