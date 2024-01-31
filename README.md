@@ -121,9 +121,7 @@ I am an experienced Full-Stack Software Engineer with a comprehensive skill set 
 <br />
 
 <h2>😎 GitHub Stats 😎</h2>
-<div align="center">
-    <a href="#"><img alt="greendream21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream21&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <a href="#"><img alt="greendream21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=greendream21&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-</div>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=greendream21" />
+<img src="https://stats.dooboo.io/api/github-trophies?login=greendream21" />
 
 <img width=100% title="greendream21" alt="greendream21"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
