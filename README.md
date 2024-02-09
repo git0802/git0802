@@ -4,12 +4,35 @@
 
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
+<br />
 <p align="center"><img align="center" style="width:96%" src="https://cdn.discordapp.com/attachments/1202403620713144361/1202544200189612092/Leonardo_Diffusion_XL_GrisailleKatsushika_Hokusais_Japanese_de_0.jpg?ex=65cdd78f&is=65bb628f&hm=6cc25d3b80c8eaefecbeacb02b1b8d72e81de7b893991e5f509836df7fc6650c&" style = "width: -webkit-fill-available;"/></p>
-I am an experienced Full-Stack Software Engineer with a comprehensive skill set that includes JavaScript/Typescript, focusing on React.js, Next.js, Angular, and Vue.js for front-end, and Node.js for server-side development. My expertise extends to mobile application development with React Native, Flutter, and Kotlin, and I have hands-on experience developing iOS applications. I have honed my skills in video streaming technologies, including WebRTC and Agora, which allows me to build robust, real-time applications. In terms of aesthetics, I am proficient in UI creation with CSS frameworks like Tailwind CSS and Material UI. My backend knowledge includes MERN and MEAN stacks, supplemented with AWS and GCP for cloud deployment, and MongoDB and MySQL for database architecture. I also have experience applying AI technologies like ChatGPT and GPT-4. My diverse skills enable me to develop reliable, efficient, and scalable applications that provide significant business impact. I am eager to leverage these skills in future innovative projects.
-
-
 <br />
 <br />
+<span 
+  data-description="
+  
+🌐 Enthusiastic Frontend and Full Stack Developer with a Bachelor’s Degree from the University of Malta, specializing in crafting dynamic user experiences and full-scale web applications. Well-versed in a suite of programming languages and frameworks, including JavaScript, React.js, Vue.js, TypeScript, Next.js, Redux, Cypress, Jest, and D3.js.
+
+💻 Proven competency in responsive design, utilizing Tailwind CSS, Sass, and various UI libraries such as Material UI, AntD, and Chakra UI to deliver aesthetically pleasing and functional user interfaces.
+
+🔧 Skilled in backend development, managing databases like MySQL, PostgreSQL, MongoDB, and deploying applications on cloud infrastructures such as AWS and Google Cloud.
+
+🚀 Demonstrated expertise in developing innovative platforms for social insurance services and creating intuitive administrative dashboards for data analysis. Proficient in employing the Twilio API to develop efficient customer management systems.
+
+🤖 Keen on integrating AI and ChatGPT advancements into web solutions to automate processes, enhance user interaction, and provide intelligent insights.
+
+Core Competencies<br />
+🧩 Frontend & Full Stack Development
+⚛️ JavaScript/TypeScript & React.js/Vue.js/Next.js<br />
+🔄 State Management & Automated Testing with Redux/Cypress/Jest<br />
+🎨 Responsive Design with Tailwind CSS/Sass<br />
+🖌️ UI/UX Design with Material UI/AntD/Chakra UI<br />
+💾 Database Mastery in MySQL/PostgreSQL/MongoDB<br />
+☁️ Cloud Services Deployment on AWS & Google Cloud<br />
+🤝 Agile Development & Teamwork<br />
+📞 Twilio API & Telecommunications<br />
+🧠 AI & ChatGPT Innovation Integration<br />
+🎯 Problem-Solving & Analytical Thinking<br />
 <br />
 
 <!-- 💗 **My Favorites Techs:** -->
