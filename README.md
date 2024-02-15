@@ -5,7 +5,7 @@
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
 <br />
-<p align="center"><img align="center" style="width:96%" src="https://cdn.discordapp.com/attachments/1178485394073985084/1178485394673774693/WW.jpg?ex=65dbd48d&is=65c95f8d&hm=1dc0485a957109a62297245d4543402a4d26facd7e5870d901f8e522d7be4d0b& style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" style="width:96%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*W__MSIprodoEZdCi"/></p>
 <br />
 <br />
 <span 
