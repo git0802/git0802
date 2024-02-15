@@ -5,7 +5,7 @@
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
 <br />
-<p align="center"><img align="center" style="width:96%" src="https://cdn.discordapp.com/attachments/1202403620713144361/1202544200189612092/Leonardo_Diffusion_XL_GrisailleKatsushika_Hokusais_Japanese_de_0.jpg?ex=65cdd78f&is=65bb628f&hm=6cc25d3b80c8eaefecbeacb02b1b8d72e81de7b893991e5f509836df7fc6650c&" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" style="width:96%" src="https://cdn.discordapp.com/attachments/1178485394073985084/1178485394673774693/WW.jpg?ex=65dbd48d&is=65c95f8d&hm=1dc0485a957109a62297245d4543402a4d26facd7e5870d901f8e522d7be4d0b&" style = "width: -webkit-fill-available;"/></p>
 <br />
 <br />
 <span 
