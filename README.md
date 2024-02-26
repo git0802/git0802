@@ -5,7 +5,7 @@
 <h1 align="center">💯 Senior Full-Stack Web Developer 💯</h1>
 <br />
 <br />
-<p align="center"><img align="center" style="width:96%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*W__MSIprodoEZdCi"/></p>
+<p align="center"><img align="center" style="width:96%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*qfDwUto2URkBY5yH"/></p>
 <br />
 <br />
 <span 
