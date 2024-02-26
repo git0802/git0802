@@ -15,8 +15,7 @@
 </div>
 <br />
 <br />
-<span 
-  data-description="
+<span data-description="
   
 🌐 Enthusiastic Frontend and Full Stack Developer with a Bachelor’s Degree from the University of Malta, specializing in crafting dynamic user experiences and full-scale web applications. Well-versed in a suite of programming languages and frameworks, including JavaScript, React.js, Vue.js, TypeScript, Next.js, Redux, Cypress, Jest, and D3.js.
 
