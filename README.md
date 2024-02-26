@@ -15,9 +15,9 @@
 </div>
 <br />
 <br />
-<span data-description="
+<span>
   
-🌐 Enthusiastic Frontend and Full Stack Developer with a Bachelor’s Degree from the University of Malta, specializing in crafting dynamic user experiences and full-scale web applications. Well-versed in a suite of programming languages and frameworks, including JavaScript, React.js, Vue.js, TypeScript, Next.js, Redux, Cypress, Jest, and D3.js.
+<p>🌐 Enthusiastic Frontend and Full Stack Developer with a Bachelor’s Degree from the University of Malta, specializing in crafting dynamic user experiences and full-scale web applications. Well-versed in a suite of programming languages and frameworks, including JavaScript, React.js, Vue.js, TypeScript, Next.js, Redux, Cypress, Jest, and D3.js.
 
 💻 Proven competency in responsive design, utilizing Tailwind CSS, Sass, and various UI libraries such as Material UI, AntD, and Chakra UI to deliver aesthetically pleasing and functional user interfaces.
 
@@ -38,7 +38,9 @@ Core Competencies<br />
 🤝 Agile Development & Teamwork<br />
 📞 Twilio API & Telecommunications<br />
 🧠 AI & ChatGPT Innovation Integration<br />
-🎯 Problem-Solving & Analytical Thinking<br />
+🎯 Problem-Solving & Analytical Thinking<br /></p>
+
+</span>
 <br />
 
 <!-- 💗 **My Favorites Techs:** -->
