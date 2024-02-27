@@ -2,14 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" /> </p>
 
-<img align="center" src="https://cdn.discordapp.com/attachments/1008571131667677294/1211978074942611476/injy.2018_a_illustration_vector_art_of_A_group_of_children_are__d327aecb-69aa-48a7-bc7d-d497839c5418.png?ex=65f0298a&is=65ddb48a&hm=c47b033ae2ed091c3936a7f2b701397a70658e394fe56b2e9b04f7d66745cd69&" width="100%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 
 <div align="center">
   
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=greendream21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/greendream21)
 </div>
-<br />
+
+<img align="center" src="https://cdn.discordapp.com/attachments/1008571131667677294/1211978074942611476/injy.2018_a_illustration_vector_art_of_A_group_of_children_are__d327aecb-69aa-48a7-bc7d-d497839c5418.png?ex=65f0298a&is=65ddb48a&hm=c47b033ae2ed091c3936a7f2b701397a70658e394fe56b2e9b04f7d66745cd69&" width="100%" style="display:inline;">
+
+
 <br />
 <span>
   
