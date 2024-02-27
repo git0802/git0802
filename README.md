@@ -8,7 +8,7 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=greendream21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/greendream21)
 </div>
 
-<img align="center" src="https://cdn.discordapp.com/attachments/1008571131667677294/1211978074942611476/injy.2018_a_illustration_vector_art_of_A_group_of_children_are__d327aecb-69aa-48a7-bc7d-d497839c5418.png?ex=65f0298a&is=65ddb48a&hm=c47b033ae2ed091c3936a7f2b701397a70658e394fe56b2e9b04f7d66745cd69&" width="100%" style="display:inline;">
+<img align="center" src="https://cdn.discordapp.com/attachments/1195155255046979675/1195172403639238747/Default_a_thousand_short_peach_fuzz_lines_swarm_character_orbi_0_4fa0fc4c-2ce6-444c-badc-1a2dcaea17bc_1.jpg?ex=65ea650a&is=65d7f00a&hm=53bfa7de24a5aab4c3c9479d95acef84e2e94fbb71025171519d2f40837c402a&" width="100%" style="display:inline;">
 
 
 <br />
