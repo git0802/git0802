@@ -17,6 +17,13 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream21&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
+<div align="center">
+  <div width="100%">
+    <img src="https://github.com/greendream21/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/greendream21/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </div>
+</div>
+
 <p align="center">
   <img src="/header_.png" alt="greendream21" width="100%">
 </p>
