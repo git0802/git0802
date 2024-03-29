@@ -1,7 +1,7 @@
 <p align="center"> <img src="/New Project.jpg" alt="greendream21" width="100%"/> </p>
 
 <p align="center">
-  <img src="https://github.com/JohnEsleyer/JohnEsleyer/assets/66754038/b3b056b1-d79a-4b9d-9e25-657b84f703f8" alt="greendream21" />
+  <img src="/landing.gif" alt="greendream21" />
 </p>
 
 <p align="left">
@@ -11,6 +11,10 @@
 <div align="center">
   
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=greendream21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/greendream21)
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream21&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
 <p align="center">
