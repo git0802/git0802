@@ -1,22 +1,16 @@
-<p align="center"> <img src="/New Project.jpg" alt="greendream21" width="100%"/> </p>
-
-<p align="center">
-  <img src="/landing.gif" alt="greendream21" />
-</p>
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=greendream21&label=Profile%20views&color=0e75b6&style=flat" alt="greendream21" />
+  <img src="https://komarev.com/ghpvc/?username=git0802&label=Profile%20views&color=0e75b6&style=flat" alt="git0802" />
 </p>
 
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=greendream21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/greendream21)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=git0802&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/git0802)
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream21&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=git0802&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
 <p align="center">
-  <img src="/header_.png" alt="greendream21" width="100%">
+  <img src="/header_.png" alt="git0802" width="100%">
 </p>
