@@ -2,10 +2,6 @@
   <img src="/header_.png" alt="git0802" width="100%">
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=git0802&label=Profile%20views&color=0e75b6&style=flat" alt="git0802" />
-</p>
-
 <div align="center">
   
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=git0802&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/git0802)
