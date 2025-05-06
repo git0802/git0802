@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="/light_logo.png" alt="logo" width="30%">
+</p>
+
 # 👋 Hello, World!
 
 I’m a **Full-Stack Developer** passionate about crafting high-performance, intelligent web applications. With 6+ years in web development, I blend robust **frontend & backend engineering** with the power of **AI-assisted tools** to deliver fast, scalable, and innovative solutions.
