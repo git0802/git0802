@@ -1,0 +1,113 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "tailwindcss/utilities";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "../styles/components.css";
+@import "../styles/mdx-components.css";
+@import "../styles/mdx-contents.css";
+@import "../styles/prism-colors.css";
+
+:root {
+  @apply flex flex-col font-sans;
+
+  --background: #ffffff;
+  --foreground: #171717;
+  --font-sans: "PlusJakartaSans", sans-serif;
+  --font-mono: "PlusJakartaSans", sans-serif;
+
+  --prism-color-background: #f8fafc;
+
+  /* base color */
+  --prism-color-base-primary: #334155;
+  --prism-color-base-secondary: #64748b;
+
+  /* tokens color */
+  --prism-color-function: #7c3aed;
+  --prism-color-keyword: #b91c1c;
+  --prism-color-number: #7c3aed;
+  --prism-color-string: #2563eb;
+  --prism-color-tag: #15803d;
+  --prism-color-parameter: #ea580c;
+  --prism-color-property-access: #1d4ed8;
+
+  /* tokens color, from base */
+  --prism-color-comment: var(--prism-color-base-secondary);
+  --prism-color-property: var(--prism-color-base-primary);
+  --prism-color-punctuation: var(--prism-color-base-secondary);
+
+  --code-bg: var(--prism-color-background);
+  --code-window: #e2e8f0;
+}
+
+.dark {
+  /* background color */
+  --prism-color-background: #161e31;
+
+  /* base color */
+  --prism-color-base-primary: #cbd5e1;
+  --prism-color-base-secondary: #94a3b8;
+
+  /* tokens color */
+  --prism-color-function: #a78bfa;
+  --prism-color-keyword: #f87171;
+  --prism-color-number: #c4b5fd;
+  --prism-color-string: #60a5fa;
+  --prism-color-tag: #4ade80;
+  --prism-color-parameter: #fb923c;
+  --prism-color-property-access: #60a5fa;
+
+  /* tokens color, from base */
+  --prism-color-comment: var(--prism-color-base-secondary);
+  --prism-color-property: var(--prism-color-base-primary);
+  --prism-color-punctuation: var(--prism-color-base-secondary);
+
+  --code-bg: var(--prism-color-background);
+  --code-window: #1d263a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  @apply scroll-smooth;
+}
+
+main {
+  @apply flex-1;
+}
+
+body {
+  @apply bg-white text-slate-900;
+  @apply dark:bg-slate-900 dark:text-slate-200 dark:[color-scheme:dark];
+  font-family: var(--font-sans, ""), var(--font-mono, ""), sans-serif;
+}
+
+:focus-visible {
+  @apply ring-violet-400 relative rounded-xl outline-none ring-2;
+}
+
+::selection {
+  @apply bg-violet-200/60 text-violet-900;
+  @apply dark:bg-violet-400/30 dark:text-violet-100;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
