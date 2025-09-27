@@ -1,6 +1,12 @@
 # 👋 Hello, World!
 
-I’m a **Full-Stack Developer** passionate about crafting high-performance, intelligent web applications. With 6+ years in web development, I blend robust **frontend & backend engineering** with the power of **AI-assisted tools** to deliver fast, scalable, and innovative solutions.
+I craft organic and sustainable web solutions for all needs. The mission is simple: well-made code that’s outgrown, not outworn. Every project is built to last—scalable, adaptable, and ready for many adventures by many digital bees.
+
+---
+
+<p align="center">
+  <img src="/header_.png" alt="git0802" width="100%">
+</p>
 
 ---
 
@@ -45,7 +51,3 @@ I’m a **Full-Stack Developer** passionate about crafting high-performance, int
 ---
 
 > 🚀 “The future belongs to those who build it — with code and curiosity.”
-
-<p align="center">
-  <img src="/header_.png" alt="git0802" width="100%">
-</p>
